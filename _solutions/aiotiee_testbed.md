@@ -2,7 +2,7 @@
 short_name: AIOTI DLT 3.xx
 name: DLT Energy Efficiency
 testbed_url: https://www.aioti.eu
-provider_logo: logos/aioti-logo.jpg
+provider_logo: logos/AIOTIlogo.jpg
 city_country: Belgium
 domains: Cross-domain
 use-cases: Industrial implementations
