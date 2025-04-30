@@ -4,14 +4,14 @@ name: SHAPES_Smart_Healthy_Ageing
 testbed_url: https://github.com/SHAPES-H2020
 provider_logo: Logos/shapes-logo.png
 city_country: Multiple locations across Europe
-domains: e-Health Data Interaoperability
-use-cases: Smart and healthy ageing through large-scale IoT-based solutions; supporting independent living, remote monitoring, daily assistance, and healthcare integration for the elderly population.
+domains: e-Health
+use-cases: Large-scale smart living environments for ageing well; improving health, well-being, and autonomy of older individuals through digital solutions; pilot sites across 14 EU countries.
 contact: shapes.info@mu.ie
 license: Open
-partner_access: remote and local, based on agreement
+partner_access: remote
 testbed_stage: deployed testbed
-description: SHAPES enables the development and validation of interoperable digital solutions that promote independent and healthy ageing in Europe. It provides access to real-life test environments in elderly residences and homes across 14 pilot sites, addressing multiple chronic conditions, cognitive impairments, and social isolation.
-technology: IoT, Edge Computing, Interoperability frameworks, Digital Health, Data Analytics
-hardware: N/A - software components are dockerized and hence they are hardware-independent
-software: SHAPES platform architecture, health monitoring and communication apps, AI-driven data analytics
+description: SHAPES is a large-scale pilot project that aims to build an interoperable open platform integrating technological, organizational, clinical, and societal solutions to promote independent, healthy ageing. It validates IoT-driven care services across Europe to address chronic conditions, mobility, and social isolation.
+technology: IoT, e-Health platforms, Smart Assistive Devices, Edge Computing, Data Analytics
+hardware: Wearables, smart home sensors, monitoring devices
+software: SHAPES digital platform, care coordination tools, health data analytics
 ---
